@@ -1,16 +1,10 @@
-### Hi there 👋
-
-<!--
-**Julwer1k/Julwer1k** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# 🖖🏻 Hi, my name is **Arthur Pshenko**!
+## I`am a *Junior Front-End Engineer* from Dnipro.
+### Check my website: [julwer1k.github.io/personal/project-one/] (https://julwer1k.github.io/personal/project-one/)
+#### Languages and Technologies
+![HTML] (
+![CSS]
+### ✉️ Mail me: julwer1k@gmail.com
+#
+> Talk is cheap. Show me the code. <br/>
+> ***Linus Torvalds***
