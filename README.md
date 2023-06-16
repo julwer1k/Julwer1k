@@ -26,8 +26,7 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=julwer1k&layout=compact)
 
-github-user-contribution.svg
-
+[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=Talk is cheap. Show me the code.&author=Linus Torvalds)](https://github.com/piyushsuthar/github-readme-quotes)
 #
 
 <details>
@@ -45,6 +44,6 @@ github-user-contribution.svg
 #
 
 ### 
-[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=Talk is cheap. Show me the code.&author=Linus Torvalds)](https://github.com/piyushsuthar/github-readme-quotes)
+
 > Talk is cheap. Show me the code. <br/>
 > ***Linus Torvalds***
