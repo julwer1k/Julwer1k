@@ -26,7 +26,7 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=julwer1k&layout=compact)
 
-[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)](https://github.com/piyushsuthar/github-readme-quotes)
+[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark?quote=Talk is cheap. Show me the code.)](https://github.com/piyushsuthar/github-readme-quotes)
 #
 
 <details>
