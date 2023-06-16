@@ -22,9 +22,7 @@
 
 ### 📊 Stats
 
-![Julwer1k's GitHub stats](https://github-readme-stats.vercel.app/api?username=julwer1k&show_icons=true&theme=gruvbox)
-
-<!-- ![GitHub Streak](https://streak-stats.demolab.com?user=Julwer1k&theme=gruvbox&border_radius=4.5) -->
+[![GitHub Streak](https://streak-stats.demolab.com?user=Julwer1k&theme=blood&hide_border=true&border_radius=5.5&locale=uk&date_format=j%20M%5B%20Y%5D&exclude_days=Sun%2CMon%2CTue%2CWed%2CThu%2CFri%2CSat&card_width=500)](https://git.io/streak-stats)
 
 #
 
