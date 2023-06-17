@@ -187,7 +187,7 @@ ___
 					julwer1k@gmail.com
 		</a>
 	
-<h6 style="text-align: center; color: #3D3D3D;">&lt;/&gt; Crafted with 🖤 Jule Vern</h6>
+<h6 style=color: #3D3D3D;" align="center">&lt;/&gt; Crafted with 🖤 Jule Vern</h6>
 <p align="center">
 	<img src="https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg" alt="Github Stats" />
 </p>
