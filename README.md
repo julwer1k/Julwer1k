@@ -105,7 +105,7 @@
   </tr>
 	<tr>
 		<td>
-			<img src="https://readme-components.vercel.app/api?component=experience&company=Hyperskill&role=Frontend%20Base&duration=6m&location=dnipro&fill=ffc0cd" alt="">
+			<img src="https://readme-components.vercel.app/api?component=experience&company=Hyperskill&role=Frontend%20Base&duration=6m&location=dnipro&fill=282c34" alt="">
 		</td>
 		<td>
 			x
@@ -113,7 +113,7 @@
 	</tr>
 	<tr>
 		<td>
-			<img src="https://readme-components.vercel.app/api?component=experience&company=PowerCodeAca&role=Frontend%20Base&duration=6m&location=dnipro&fill=ffc0cd" alt="">
+			<img src="https://readme-components.vercel.app/api?component=experience&company=PowerCodeAca&role=Frontend%20Base&duration=6m&location=dnipro&fill=282c34" alt="">
 		</td>
 		<td>
 			02/2023 - 08/2023	
@@ -121,7 +121,7 @@
 	</tr>
 	<tr>
 		<td>
-			<img src="https://readme-components.vercel.app/api?component=experience&company=MateAcademy&role=FRONTEND%20Developer%20Part-time&duration=6m&location=dnipro&fill=ffc0cd" alt="">
+			<img src="https://readme-components.vercel.app/api?component=experience&company=MateAcademy&role=FRONTEND%20Developer%20Part-time&duration=6m&location=dnipro&fill=282c34" alt="">
 		</td>
 		<td>
 			05/2023 - xx/2023	
