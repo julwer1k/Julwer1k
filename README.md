@@ -33,9 +33,7 @@
 
 ---
 
-### Technology
-
-#### Language & FRAMEWORKS, PLATFORMS & LIBRARIES:
+### Language & FRAMEWORKS, PLATFORMS & LIBRARIES:
 
 ![techstack logo](https://readme-components.vercel.app/api?component=logo&fill=f34f29&logo=git&svgfill=white&textfill=white)
 ![techstack logo](https://readme-components.vercel.app/api?component=logo&fill=e44d26&logo=html5&svgfill=white&textfill=white)
@@ -63,7 +61,7 @@
 --- -->
 ---
 
-#### DESIGN & OTHER:
+### DESIGN & OTHER:
 
 ![techstack logo](https://readme-components.vercel.app/api?component=logo&fill=7954f2&logo=figma&svgfill=white&textfill=ffff)
 ![techstack logo](https://readme-components.vercel.app/api?component=logo&fill=001e36&logo=adobephotoshop&svgfill=white&textfill=white)
