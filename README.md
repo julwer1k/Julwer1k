@@ -91,9 +91,7 @@
   </tr>
 </table>
 
-<div style="display: flex; justify-content: center; align-items: center; margin-top: 45px">
-	<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=nord&quote=Talk is cheap.Show me the code.&author=Linus Torvalds" alt="Quotes">
-</div>
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=nord&quote=Talk&nbsp;is&nbsp;cheap.&nbsp;Show&nbsp;me&nbsp;the&nbsp;code.&author=Linus&nbsp;Torvalds)](https://github.com/piyushsuthar/github-readme-quotes"  alt=""/>
 
 
 <!-- Nothing weird to see here -->
