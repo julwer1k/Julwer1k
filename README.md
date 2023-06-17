@@ -29,6 +29,8 @@
 	alt="Buy me a coffe">
 </a>
 
+<a href="mailto:julwer1k@gmail.com"> <img src="https://readme-components.vercel.app/api?component=logo&fill=d24336&logo=gmail&svgfill=white&textfill=ffff" alt="Link on Mail"></a>
+
 ---
 
 ### Technology
@@ -86,13 +88,16 @@
       <img align="left" src="https://streak-stats.demolab.com?user=Julwer1k&theme=black-ice&hide_border=true&border_radius=10&mode=weekly)](https://git.io/streak-stats" alt="Julwer1k's Github stats"/>
     </td>
     <td>
-      <img height="195px" align="right" alt="webDev's Github Languages" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Julwer1k&layout=compact&theme=dark " />
+      <img height="195px" align="right" alt="webDev's Github Languages" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Julwer1k&layout=compact&theme=dark"/>
     </td>
   </tr>
 </table>
 
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=nord&quote=Talk&nbsp;is&nbsp;cheap.&nbsp;Show&nbsp;me&nbsp;the&nbsp;code.&author=Linus&nbsp;Torvalds)](https://github.com/piyushsuthar/github-readme-quotes"  alt=""/>
+<p align="center">
+	<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=nord&quote=Talk&nbsp;is&nbsp;cheap.&nbsp;Show&nbsp;me&nbsp;the&nbsp;code.&author=Linus&nbsp;Torvalds"  alt=""/>
+</p>
 
+---
 
 <!-- Nothing weird to see here -->
 <p align="center">
@@ -110,7 +115,7 @@
 
 
 <h3 align="center">💻 Course Completed:</h3>
-<table style="display:flex; justify-content: center; align-items: center">
+<table align="center">
   <tr>
     <th>
       Courses
@@ -144,19 +149,6 @@
 		</td>
 	</tr>
 </table>
-		<a href="mailto:julwer1k@gmail.com" 
-			style="text-decoration:none; 
-			color: rgb(255 255 255); 
-			opacity: .75; 
-			font-size: 16px; 
-			display:flex; 
-			justify-content: center; 
-			gap: 8px; 
-			align-items: center;
-			font-family: 'Fira Code', sans-serif">
-				<img src="https://cdn4.iconfinder.com/data/icons/essentials-73/24/001_-_Envelope-256.png" alt="" width="25px" height="25px" style="vertical-align: middle">
-					julwer1k@gmail.com
-		</a>
 	
 <h6 style=color: #3D3D3D;" align="center">&lt;/&gt; Crafted with 🖤 Jule Vern</h6>
 <p align="center">
