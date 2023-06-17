@@ -108,7 +108,7 @@
 			<img src="https://readme-components.vercel.app/api?component=experience&company=Hyperskill&role=Frontend%20Base&duration=6m&location=dnipro&fill=282c34" alt="">
 		</td>
 		<td>
-			x
+			01/2023 - 03/2023
 		</td>
 	</tr>
 	<tr>
@@ -116,7 +116,7 @@
 			<img src="https://readme-components.vercel.app/api?component=experience&company=PowerCodeAca&role=Frontend%20Base&duration=6m&location=dnipro&fill=282c34" alt="">
 		</td>
 		<td>
-			02/2023 - 08/2023	
+			02/2023 - 04/2023	
 		</td>
 	</tr>
 	<tr>
