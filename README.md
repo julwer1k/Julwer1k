@@ -1,58 +1,31 @@
 <h1 align="center">Hi 😶‍🌫️, I'm  Julwer1k</h1>
 <h3 align="center">Trainee Front-End Developer</h3>
 
-___
 
 ### Social networks:
 
 <a href="https://github.com/Julwer1k">
-	<img src="https://readme-components.vercel.app/api?
-		component=logo&
-		fill=7c3aed&
-		logo=github&
-		svgfill=ffffff&
-		textfill=ffffff" 
+	<img src="https://readme-components.vercel.app/api?component=logo&fill=7c3aed&logo=github&svgfill=ffffff&textfill=ffffff" 
 	alt="GitHub">
 </a>
 
 <a href="https://www.linkedin.com/in/julwer1k/">
-	<img src="https://readme-components.vercel.app/api?
-		component=logo&
-		fill=1d4ed8&
-		logo=linkedin&
-		svgfill=ffffff&
-		textfill=ffffff" 
+	<img src="https://readme-components.vercel.app/api?component=logo&fill=1d4ed8&logo=linkedin&svgfill=ffffff&textfill=ffffff" 
 	alt="LinkedIn">
 </a>
 
 <a href="#">
-	<img src="https://readme-components.vercel.app/api?
-		component=logo&
-		fill=black&
-		logo=codepen&
-		svgfill=ffffff&
-		textfill=ffffff" 
+	<img src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=codepen&svgfill=ffffff&textfill=ffffff" 
 	alt="CodePen">
 </a>
 
 <a href="https://www.instagram.com/julwer1k/">
-	<img src="https://readme-components.vercel.app/api?
-		component=logo&
-		fill=linear-gradient%2862deg%2C%20%23F9CE34%200%25%2C%20%23EE2A7B%2062%25%2C%20%236228D7%20100%25%29%3B&
-		logo=instagram&
-		animation=&
-		svgfill=white&
-		textfill=white" 
+	<img src="https://readme-components.vercel.app/api?component=logo&fill=linear-gradient%2862deg%2C%20%23F9CE34%200%25%2C%20%23EE2A7B%2062%25%2C%20%236228D7%20100%25%29%3B&logo=instagram&svgfill=white&textfill=white" 
 	alt="Instagram">
 </a>
 
 <a href="#">
-	<img src="https://readme-components.vercel.app/api?
-		component=logo&
-		fill=000&
-		logo=buymeacoffee&
-		svgfill=ffdd00&
-		textfill=ffffff" 
+	<img src="https://readme-components.vercel.app/api?component=logo&fill=000&logo=buymeacoffee&svgfill=ffdd00&textfill=ffffff" 
 	alt="Buy me a coffe">
 </a>
 
@@ -68,8 +41,8 @@ ___
 ![techstack logo](https://readme-components.vercel.app/api?component=logo&fill=323330&logo=javascript&svgfill=f0db4f&textfill=ffff)
 
 ![techstack logo](https://readme-components.vercel.app/api?component=logo&fill=563d7c&logo=bootstrap&svgfill=white&textfill=white)
-![techstack logo](https://readme-components.vercel.app/api?component=logo&fill=1f2229&logo=react&svgfill=61dbfb&textfill=white)
-![techstack logo](https://readme-components.vercel.app/api?component=logo&fill=38b2ac&logo=redux&svgfill=white&textfill=white)
+![techstack logo](https://readme-components.vercel.app/api?component=logo&fill=1f2229&logo=react&svgfill=61dbfb&textfill=white&animation=spin)
+![techstack logo](https://readme-components.vercel.app/api?component=logo&fill=38b2ac&logo=redux&svgfill=white&textfill=white&animation=spin)
 ![techstack logo](https://readme-components.vercel.app/api?component=logo&fill=cb6699&logo=sass&svgfill=white&textfill=white)
 
 <!-- MarkDown and Typescript
@@ -92,12 +65,12 @@ ___
 
 ![techstack logo](https://readme-components.vercel.app/api?component=logo&fill=7954f2&logo=figma&svgfill=white&textfill=ffff)
 ![techstack logo](https://readme-components.vercel.app/api?component=logo&fill=001e36&logo=adobephotoshop&svgfill=white&textfill=white)
-![techstack logo](https://readme-components.vercel.app/api?component=logo&fill=2d023e&logo=adobepremierepro&svgfill=white&textfill=white)
+![techstack logo](https://readme-components.vercel.app/api?component=logo&fill=2d023e&logo=adobepremierepro&svgfill=white&textfill=white&)
 
 ![techstack logo](https://readme-components.vercel.app/api?component=logo&fill=1b87ca&logo=webstorm&svgfill=white&textfill=white)
-![techstack logo](https://readme-components.vercel.app/api?component=logo&fill=461447&logo=slack&svgfill=white&textfill=ffff)
+![techstack logo](https://readme-components.vercel.app/api?component=logo&fill=461447&logo=slack&svgfill=white&textfill=ffff&animation=spin)
 ![techstack logo](https://readme-components.vercel.app/api?component=logo&fill=white&logo=notion&svgfill=black&textfill=000)
-![techstack logo](https://readme-components.vercel.app/api?component=logo&fill=dd3837&logo=opera&svgfill=white&textfill=ffff)
+![techstack logo](https://readme-components.vercel.app/api?component=logo&fill=dd3837&logo=opera&svgfill=white&textfill=ffff&animation=spin)
 ![techstack logo](https://readme-components.vercel.app/api?component=logo&fill=0d5fd4&logo=trello&svgfill=white&textfill=ffff)
 
 
