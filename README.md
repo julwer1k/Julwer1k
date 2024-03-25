@@ -40,14 +40,15 @@
 ![techstack logo](https://readme-components.vercel.app/api?component=logo&fill=1572b6&logo=css3&svgfill=white&textfill=white)
 ![techstack logo](https://readme-components.vercel.app/api?component=logo&fill=323330&logo=javascript&svgfill=f0db4f&textfill=ffff)
 
-![techstack logo](https://readme-components.vercel.app/api?component=logo&fill=563d7c&logo=bootstrap&svgfill=white&textfill=white)
+![techstack logo](https://readme-components.vercel.app/api?component=logo&fill=593d88&logo=tailwindcss&svgfill=white&textfill=white)
 ![techstack logo](https://readme-components.vercel.app/api?component=logo&fill=1f2229&logo=react&svgfill=61dbfb&textfill=white&animation=spin)
 ![techstack logo](https://readme-components.vercel.app/api?component=logo&fill=38b2ac&logo=redux&svgfill=white&textfill=white&animation=spin)
 ![techstack logo](https://readme-components.vercel.app/api?component=logo&fill=cb6699&logo=sass&svgfill=white&textfill=white)
+![techstack logo](https://readme-components.vercel.app/api?component=logo&fill=007acc&logo=typescript&svgfill=white&textfill=white)
 
 <!-- MarkDown and Typescript
 [techstack logo](https://readme-components.vercel.app/api?component=logo&fill=black&logo=markdown&svgfill=white&textfill=white)
-![techstack logo](https://readme-components.vercel.app/api?component=logo&fill=007acc&logo=typescript&svgfill=white&textfill=white)
+
 --- -->
 
 <!-- Gulp, NPM, Node.js, iOS, Tailwindcss, Vue, Webpack
@@ -55,7 +56,7 @@
 ![techstack logo](https://readme-components.vercel.app/api?component=logo&fill=black&logo=npm&svgfill=white&textfill=white)
 ![techstack logo](https://readme-components.vercel.app/api?component=logo&fill=6da55f&logo=node.js&svgfill=white&textfill=white)
 ![techstack logo](https://readme-components.vercel.app/api?component=logo&fill=black&logo=ios&svgfill=white&textfill=white)
-![techstack logo](https://readme-components.vercel.app/api?component=logo&fill=593d88&logo=tailwindcss&svgfill=white&textfill=white)
+
 ![techstack logo](https://readme-components.vercel.app/api?component=logo&fill=35495e&logo=vue.js&svgfill=3eaf7c&textfill=white)
 ![techstack logo](https://readme-components.vercel.app/api?component=logo&fill=1b72b6&logo=webpack&svgfill=white&textfill=white)
 --- -->
