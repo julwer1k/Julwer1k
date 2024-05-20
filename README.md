@@ -4,19 +4,9 @@
 
 ### Social networks:
 
-<a href="https://github.com/Julwer1k">
-	<img src="https://readme-components.vercel.app/api?component=logo&fill=7c3aed&logo=github&svgfill=ffffff&textfill=ffffff" 
-	alt="GitHub">
-</a>
-
 <a href="https://www.linkedin.com/in/julwer1k/">
 	<img src="https://readme-components.vercel.app/api?component=logo&fill=1d4ed8&logo=linkedin&svgfill=ffffff&textfill=ffffff" 
 	alt="LinkedIn">
-</a>
-
-<a href="#">
-	<img src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=codepen&svgfill=ffffff&textfill=ffffff" 
-	alt="CodePen">
 </a>
 
 <a href="https://www.instagram.com/julwer1k/">
@@ -24,42 +14,27 @@
 	alt="Instagram">
 </a>
 
-<a href="#">
-	<img src="https://readme-components.vercel.app/api?component=logo&fill=000&logo=buymeacoffee&svgfill=ffdd00&textfill=ffffff" 
-	alt="Buy me a coffe">
+<a href="mailto:julwer1k@gmail.com">
+	<img src="https://readme-components.vercel.app/api?component=logo&fill=d24336&logo=gmail&svgfill=white&textfill=ffff" alt="Link on Mail">
 </a>
-
-<a href="mailto:julwer1k@gmail.com"> <img src="https://readme-components.vercel.app/api?component=logo&fill=d24336&logo=gmail&svgfill=white&textfill=ffff" alt="Link on Mail"></a>
 
 ---
 
 ### Language & FRAMEWORKS, PLATFORMS & LIBRARIES:
 
-![techstack logo](https://readme-components.vercel.app/api?component=logo&fill=f34f29&logo=git&svgfill=white&textfill=white)
+![techstack logo](https://readme-components.vercel.app/api?component=logo&fill=1f2229&logo=react&svgfill=61dbfb&textfill=white&animation=spin)
+![techstack logo](https://readme-components.vercel.app/api?component=logo&fill=007acc&logo=typescript&svgfill=white&textfill=white)
+![techstack logo](https://readme-components.vercel.app/api?component=logo&fill=38b2ac&logo=redux&svgfill=white&textfill=white&animation=spin)
+
+![techstack logo](https://readme-components.vercel.app/api?component=logo&fill=323330&logo=javascript&svgfill=f0db4f&textfill=ffff)
 ![techstack logo](https://readme-components.vercel.app/api?component=logo&fill=e44d26&logo=html5&svgfill=white&textfill=white)
 ![techstack logo](https://readme-components.vercel.app/api?component=logo&fill=1572b6&logo=css3&svgfill=white&textfill=white)
-![techstack logo](https://readme-components.vercel.app/api?component=logo&fill=323330&logo=javascript&svgfill=f0db4f&textfill=ffff)
-
-![techstack logo](https://readme-components.vercel.app/api?component=logo&fill=593d88&logo=tailwindcss&svgfill=white&textfill=white)
-![techstack logo](https://readme-components.vercel.app/api?component=logo&fill=1f2229&logo=react&svgfill=61dbfb&textfill=white&animation=spin)
-![techstack logo](https://readme-components.vercel.app/api?component=logo&fill=38b2ac&logo=redux&svgfill=white&textfill=white&animation=spin)
 ![techstack logo](https://readme-components.vercel.app/api?component=logo&fill=cb6699&logo=sass&svgfill=white&textfill=white)
-![techstack logo](https://readme-components.vercel.app/api?component=logo&fill=007acc&logo=typescript&svgfill=white&textfill=white)
+![techstack logo](https://readme-components.vercel.app/api?component=logo&fill=593d88&logo=tailwindcss&svgfill=white&textfill=white)
 
-<!-- MarkDown and Typescript
-[techstack logo](https://readme-components.vercel.app/api?component=logo&fill=black&logo=markdown&svgfill=white&textfill=white)
-
---- -->
-
-<!-- Gulp, NPM, Node.js, iOS, Tailwindcss, Vue, Webpack
+![techstack logo](https://readme-components.vercel.app/api?component=logo&fill=f34f29&logo=git&svgfill=white&textfill=white)
 ![techstack logo](https://readme-components.vercel.app/api?component=logo&fill=cf4647&logo=gulp&svgfill=white&textfill=white)
 ![techstack logo](https://readme-components.vercel.app/api?component=logo&fill=black&logo=npm&svgfill=white&textfill=white)
-![techstack logo](https://readme-components.vercel.app/api?component=logo&fill=6da55f&logo=node.js&svgfill=white&textfill=white)
-![techstack logo](https://readme-components.vercel.app/api?component=logo&fill=black&logo=ios&svgfill=white&textfill=white)
-
-![techstack logo](https://readme-components.vercel.app/api?component=logo&fill=35495e&logo=vue.js&svgfill=3eaf7c&textfill=white)
-![techstack logo](https://readme-components.vercel.app/api?component=logo&fill=1b72b6&logo=webpack&svgfill=white&textfill=white)
---- -->
 ---
 
 ### DESIGN & OTHER:
@@ -67,17 +42,11 @@
 ![techstack logo](https://readme-components.vercel.app/api?component=logo&fill=7954f2&logo=figma&svgfill=white&textfill=ffff)
 ![techstack logo](https://readme-components.vercel.app/api?component=logo&fill=001e36&logo=adobephotoshop&svgfill=white&textfill=white)
 ![techstack logo](https://readme-components.vercel.app/api?component=logo&fill=2d023e&logo=adobepremierepro&svgfill=white&textfill=white&)
-
 ![techstack logo](https://readme-components.vercel.app/api?component=logo&fill=1b87ca&logo=webstorm&svgfill=white&textfill=white)
+
 ![techstack logo](https://readme-components.vercel.app/api?component=logo&fill=461447&logo=slack&svgfill=white&textfill=ffff&animation=spin)
-![techstack logo](https://readme-components.vercel.app/api?component=logo&fill=white&logo=notion&svgfill=black&textfill=000)
-![techstack logo](https://readme-components.vercel.app/api?component=logo&fill=dd3837&logo=opera&svgfill=white&textfill=ffff&animation=spin)
 ![techstack logo](https://readme-components.vercel.app/api?component=logo&fill=0d5fd4&logo=trello&svgfill=white&textfill=ffff)
 
-
-<!-- Docker
-![techstack logo](https://readme-components.vercel.app/api?component=logo&fill=323330&logo=docker&svgfill=f0db4f&textfill=ffff)
---- -->
 ---
 
 ### 📊 GitHub Stats️:
@@ -102,22 +71,6 @@
       Date
     </th>
   </tr>
-	<tr>
-		<td>
-			<img src="https://readme-components.vercel.app/api?component=experience&company=Hyperskill&role=Frontend%20Base&duration=6m&location=dnipro&fill=282c34" alt="">
-		</td>
-		<td>
-			01/2023 - 03/2023
-		</td>
-	</tr>
-	<tr>
-		<td>
-			<img src="https://readme-components.vercel.app/api?component=experience&company=PowerCodeAca&role=Frontend%20Base&duration=6m&location=dnipro&fill=282c34" alt="">
-		</td>
-		<td>
-			02/2023 - 04/2023	
-		</td>
-	</tr>
 	<tr>
 		<td>
 			<img src="https://readme-components.vercel.app/api?component=experience&company=MateAcademy&role=FRONTEND%20Developer%20Part-time&duration=6m&location=dnipro&fill=282c34" alt="">
