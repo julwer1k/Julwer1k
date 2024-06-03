@@ -1,8 +1,8 @@
-<h1 align="center">Hi 😶‍🌫️, I'm  Arty</h1>
+<h1 align="center">Hi 😶‍🌫️, I'm  ArtyWhit</h1>
 <h3 align="center">Front-End Developer</h3>
 
 
-### Social networks:
+### Social Networks:
 
 <a href="https://www.linkedin.com/in/julwer1k/">
 	<img src="https://readme-components.vercel.app/api?component=logo&fill=1d4ed8&logo=linkedin&svgfill=ffffff&textfill=ffffff" 
@@ -101,7 +101,7 @@
   <!-- This is how you'd make the call dynamically <img src="https://readme.andyruwruw.com/api/top-played"> -->
 </p>
 	
-<h6 style=color: #3D3D3D;" align="center">&lt;/&gt; Crafted with 🖤 Jule Vern</h6>
+<h6 style=color: #3D3D3D;" align="center">&lt;/&gt; Crafted with 🖤 ArtyWhit</h6>
 <p align="center">
 	<img src="https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg" alt="Github Stats" />
 </p>
