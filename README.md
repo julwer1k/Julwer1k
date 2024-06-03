@@ -1,4 +1,4 @@
-<h1 align="center">Hi 😶‍🌫️, I'm  Julwer1k</h1>
+<h1 align="center">Hi 😶‍🌫️, I'm  Arty</h1>
 <h3 align="center">Front-End Developer</h3>
 
 
@@ -20,7 +20,7 @@
 
 ---
 
-### Language & FRAMEWORKS, PLATFORMS & LIBRARIES:
+### Language & Frameworks, Platforms & Libraries:
 
 ![techstack logo](https://readme-components.vercel.app/api?component=logo&fill=1f2229&logo=react&svgfill=61dbfb&textfill=white&animation=spin)
 ![techstack logo](https://readme-components.vercel.app/api?component=logo&fill=007acc&logo=typescript&svgfill=white&textfill=white)
@@ -37,7 +37,7 @@
 ![techstack logo](https://readme-components.vercel.app/api?component=logo&fill=black&logo=npm&svgfill=white&textfill=white)
 ---
 
-### DESIGN & OTHER:
+### Design & Other:
 
 ![techstack logo](https://readme-components.vercel.app/api?component=logo&fill=7954f2&logo=figma&svgfill=white&textfill=ffff)
 ![techstack logo](https://readme-components.vercel.app/api?component=logo&fill=001e36&logo=adobephotoshop&svgfill=white&textfill=white)
