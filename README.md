@@ -1,6 +1,4 @@
-<h1 align="center">Hi 😶‍🌫️, I'm  ArtyWhit</h1>
-<h3 align="center">Front-End Developer</h3>
-
+<h1 align="center">😶‍🌫️ Hi, I'm ArtyWhit - Front-End Developer</h1>
 
 ### Social Networks:
 
@@ -35,6 +33,7 @@
 ![techstack logo](https://readme-components.vercel.app/api?component=logo&fill=f34f29&logo=git&svgfill=white&textfill=white)
 ![techstack logo](https://readme-components.vercel.app/api?component=logo&fill=cf4647&logo=gulp&svgfill=white&textfill=white)
 ![techstack logo](https://readme-components.vercel.app/api?component=logo&fill=black&logo=npm&svgfill=white&textfill=white)
+
 ---
 
 ### Design & Other:
